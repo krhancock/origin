@@ -2,22 +2,26 @@ What happens when you initialize a repository? Why do you need to do it?
 	I type git add filename.txt then I have to open it in subline and then save it before it shows up in the repository.
 
 How is the staging area different from the working directory and the repository?
-			I am not sure what is meant by this question.
+			the staging area is a intermediate stage between when you are working on a file and when you commit it.
 
 What value do you think it offers?
 
-		clearly I miss the part abou the staging area...
+		I think that a staging area just allows for place to keep files that are more complete than new files but that are not ready to be committed.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+		The staging area gives the user a place to temperarilly store files before they will be committed. 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	They would be helpful when ones has a few versions of the same program. Keeping seprate title or version numbers would make it easier to organize the progress or work.
 
 How do the diagrams help you visualize the branch structure?
+	The diagrams are an simple representation of the branch concept. Seeing the order of commits or how you can have several verison of a programs and see how the updates and commits relate to each other.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	The graph show the merge. The lines connect the commits and repersents the merge that happen. The graph is a good visual to show in a linear line how the time line of the program progressed.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+	Pros are it does the work for you, and less error can occur. Cons is the same thing. Sometimes you need to do things manually and other having the program do it would be benefical.
