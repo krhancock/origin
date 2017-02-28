@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    a seprate branch will keep the master line clean so that a user can get the code finalized and hopefully not introduce bugs to the master line. It can also depend on the type of work you want to do, or bug fix that determine if you want to use a seperate branch or just make a commit to the master branch.
